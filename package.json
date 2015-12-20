@@ -1,0 +1,22 @@
+{
+  "name": "randomizer",
+  "version": "1.0.0",
+  "description": "Random name generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyvitamins/randomizer.git"
+  },
+  "keywords": [
+    "randomizer"
+  ],
+  "author": "Vladimir Kalmykov <vladimirmorulus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polyvitamins/randomizer/issues"
+  },
+  "homepage": "https://github.com/polyvitamins/randomizer#readme"
+}
